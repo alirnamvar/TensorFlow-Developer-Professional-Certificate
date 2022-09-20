@@ -1,2 +1,2 @@
-# TensorFlow-Developer-Professional-Certificate
+# TensorFlow Developer Professional Certificate
 DeepLearning.AI TensorFlow Developer Professional Certificate on Coursera.
